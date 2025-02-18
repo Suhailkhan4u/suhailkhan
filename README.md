@@ -1,4 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suhail Khan &label=Profile%20views&color=0e75b6&style=flat" alt="Suhail Khan" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=SuhailKhan&label=Profile%20views&color=0e75b6&style=flat" alt="Suhail Khan" /> 
+</p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This is +Suhail Khan+!+😊;" />
 </h1>
@@ -24,7 +27,7 @@
 
 ## 📫 How to reach me
 
-- Instagram : <a href="https://www.instagram.com/md.suhail.khn/" target="_blank">suhailkhan</a>
+- Instagram : <a href="https://www.instagram.com/md.suhail.khn/" target="_blank">md.suhail.khn</a>
 
    
 </div>
